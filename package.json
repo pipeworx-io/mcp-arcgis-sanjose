@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-sanjose",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "City of San Jose GIS — San Jose, California open geospatial data (ArcGIS).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-f7e33055d5af49af1f5d9fc0c6f57cf6f707ec6736a13b4024c0da836c65475a",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-3b3ee7c730625805c4072264cb6f97332356c2a453b8313f243df32a923b9803",
+    "sourceCommit": "454041882179fae560c06e770b6b7a2f33970015"
   }
 }
